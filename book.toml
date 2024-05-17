@@ -1,0 +1,6 @@
+[book]
+authors = []
+language = "es"
+multilingual = true
+src = "src"
+mathjax-support = true
