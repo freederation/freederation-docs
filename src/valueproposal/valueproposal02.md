@@ -5,7 +5,7 @@
 ![FREEDERATION Franchise](../img/freederation_solar_system.jpg)
 
 Para ello, se emplea la analogía de un sistema solar, donde el proyecto Open Source se representa como una Estrella, la **Regen-Star**. 
-A partir de la **Regen-Star**, se derivan los planetas (**Regen-Planets**) que ejercerían como Agentes de Afiliación: Es decir, cada **Regen-Planet** constituye un tipo especial de agente asociado en la organización Regen-Star que gestionan la membresía de los nuevos agentes franquiciados.
+A partir de la **Regen-Star**, se derivan los planetas (**Regen-Planets**) que ejercen como Agentes de Afiliación: Es decir, cada **Regen-Planet** constituye un tipo especial de agente asociado en la organización Regen-Star que gestionan la membresía de los nuevos agentes franquiciados.
 
 Por otro lado, los agentes franquiciados adquirirán una Agencia Aseguradora: las **Meta-Islas** son un tipo de activo no fungible que los autoriza a operar servicios en nombre del proyecto Open Source representado en la **Regen-Star**.
 
