@@ -3,6 +3,8 @@
 - [Motivación](motivation/motivation.md)
   - [Desafíos del Marketing Digital](motivation/motivation01.md)
   - [Sostenibilidad de la Infraestructura Web3](motivation/motivation02.md)
+    - [Ciberseguridad y Descargo de Responsabilidades del Open Source](motivation/motivation021.md)
+    - [Colaboración y Mercado de Seguros Cibernéticos](motivation/motivation022.md)
   - [Incentivos para apoyar el Open Source](motivation/motivation03.md)
   - [Retos en la Moderación de Contenidos](motivation/motivation04.md)
 - [Propuesta de Valor](valueproposal/valueproposal.md)

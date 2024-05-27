@@ -6,10 +6,12 @@ La fortaleza del Open Source se basa en el intercambio libre de conocimientos, f
 
 Por otro lado, el reconocimiento comunitario de las contribuciones a la calidad del software libre y su impacto por los beneficios que brindan a la industria digital,  aumentan la reputación de quienes participan en su desarrollo. El capital social derivado del Software Libre brinda visibilidad y favorabilidad a las compañías involucradas, lo cual favorece la promoción de sus marcas.
 
-Actualmente, la estrategia más efectiva para motivar a los patrocinadores que financian el Open Source ha sido representar de manera visible sus marcas y logotipos en los sitios web asociados a los proyectos. 
+![[Reconocimiento de donantes y logos]](../img/open_source_site_sponsors.jpg)
 
-![Vincular la promoción en la Web con el Open Source](../img/linking_open_source_with_marketing.jpg)
+Actualmente, la estrategia más efectiva para motivar a los patrocinadores que financian el Open Source ha sido representar de manera visible sus marcas y logotipos en los sitios web asociados a los proyectos. 
 
 Sin embargo, surge la pregunta de si esta mención en un portal web relacionado con Open Source es suficiente para conectar a las compañías con sus clientes, o a los creadores digitales con su audiencia. Se desaprovecha el potencial de las redes sociales y los motores de búsqueda y recomendación integrados en estas plataformas.
 
-Partiendo de ese planteamiento, FREEDERATION estructura su solución para vincular la actividad económica de la promoción de contenidos en Nostr con el respaldo a los proyectos de Software Libre, destacando la conexión con el capital social asociado a los proyectos que benefician a la sociedad en su conjunto.
+![Vincular la promoción en la Web con el Open Source](../img/linking_open_source_with_marketing.jpg)
+
+Partiendo de ese planteamiento, **FREEDERATION** estructura su solución para vincular la actividad económica de la promoción de contenidos en Nostr con el respaldo a los proyectos de Software Libre, destacando la conexión con el capital social asociado a los proyectos que benefician a la sociedad en su conjunto.

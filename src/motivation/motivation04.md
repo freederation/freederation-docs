@@ -16,6 +16,8 @@ No obstante, Nostr enfrenta un problema con la presencia de cuentas maliciosas q
 
 Actualmente, Nostr cuenta con un mecanismo para gestionar la promoción de contenidos mediante la métrica de la cantidad de donativos que reciben las cuentas populares. Conocidas como [Zaps](https://franciscolen.substack.com/p/monetizacion-y-mercadeo-digital-en), se denomina a las operaciones relacionadas con la gestión de microdonaciones realizadas a través de la Lighting Network, tal y como se especifica en la [Propuesta de Mejora (NIP) 57](https://github.com/nostr-protocol/nips/blob/master/57.md).
 
+![Donation Scam](../img/donation_scam_zaps.jpg)
+
 El inconveniente con determinar la relevancia de los contenidos de acuerdo a la cantidad de Zaps que reciben sus autores, es que los agentes maliciosos pueden incrementar artificialmente la reputación de sus cuentas mediante la auto-donación y la creación de esquemas de confabulación entre cuentas falsas. Tales prácticas manipulan los sistemas de clasificación y recomendación, fomentando la proliferación de contenido malicioso en la red.
 
 ### El Aseguramiento de la Calidad como Sustento de la Reputación
@@ -25,3 +27,4 @@ Las comunidades en la red social Nostr necesitan un modelo organizacional que ge
 La clave está en desarrollar mecanismos para que los usuarios identifiquen y valoren la autenticidad y calidad del contenido sin sacrificar su privacidad ni ser víctimas de prácticas intrusivas. Este modelo debe incluir mecanismos de arbitraje para la moderación de contenidos, basados en un sistema de reputación. 
 
 Por las razones expuestas, resulta crucial la integración de Proyectos de Open Source como garantes de la reputación. Al establecer organizaciones de responsabilidad colectiva, se logra estructurar un modelo de negocio sostenible alrededor de los servicios de aseguramiento de la calidad y la integridad de la información en redes sociales descentralizadas.
+
