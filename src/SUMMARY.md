@@ -32,7 +32,7 @@
   - [VestingPeriods y Retención de Comisiones](economy/economy05.md)
 - [Governanza](governance/governance.md)
   - [Tribunales de Arbitraje](governance/governance01.md)
-  - [Manejo Presupuestal de Bienes Públicos](governance/governance02.md)
+  - [Lotería de Promoción](governance/governance02.md)
   - [Aspectos a Mejorar: Votación y Privacidad](governance/governance03_future.md)
 - [Tokens de Participación Comunitaria](nftplatform/nftplatform.md)
   - [Listing-Tokens y SponsorAccounts](nftplatform/listingtokens.md)
