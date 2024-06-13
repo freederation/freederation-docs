@@ -3,4 +3,7 @@ authors = []
 language = "es"
 multilingual = true
 src = "src"
-mathjax-support = true
+[preprocessor.katex]
+block-delimiter = { left = "[$%", right = "%$]" }
+inline-delimiter = { left = "($%", right = "$%)" }
+pre-render = true

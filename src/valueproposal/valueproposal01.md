@@ -8,8 +8,6 @@ Tal **Prestigio** aumenta en la medida que cumplan las metas de calidad del soft
 
 En ese orden de ideas, **FREEDERATION** establece un pacto de asociación entre los proyectos **Open Source** y las agencias aseguradoras bajo el modelo de Franquicia: El proyecto Open Source expande su influencia como marca y bajo su **Prestigio** respalda los compromisos adquiridos por sus socios miembros de la institución, las **Agencias Aseguradoras**.
 
-![FREEDERATION DAO Ecosystem](../img/freederation_dao_ecosystem.jpg)
-
 A cambio de su respaldo institucional, los franquiciados (Agencias Aseguradoras) retribuyen parte de sus ingresos a la franquicia aseguradora. Es decir, por cada venta de pólizas de seguros se contribuye una prima base a la organización gestora (la franquicia) y del excedente corresponde al franquiciado una comisión de venta.
 
 Las **Agencias Aseguradoras** se desempeñan no solo en el respaldo de compromisos entre agentes económicos, sino también en labores de preservación de la información. Tales labores son cruciales para la Moderación de Contenidos y el **Marketing Responsable** en redes descentralizadas como **Nostr**.
