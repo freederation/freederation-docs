@@ -28,7 +28,7 @@ Para crear una Regen-Star desde cero, el fundador necesita acuñar un **Nucleus-
 
 Luego de inscribir el proyecto Open Source como una Regen-Star, el fundador puede iniciar una venta inicial de tokens del proyecto brindará a los Early Adopters adquirir un **Regen-Planet** del proyecto y beneficiarse a futuro de la venta de **Meta-Islas**. Véase el capítulo de los **Regen-Planets** para mas detalles sobre la venta inicial a los Early Adopters.
 
-Sin embargo, en su fase inicial la Regen-Star buscará su **Acreditación** para activar su función de recaudo y expansión de la franquicia. El Prestigio no se desarrolla aún y se mantiene la organización en un estado latente (NEBULOUS) para ser promovida y aprobada por la DAO de FREEDERATION. 
+Sin embargo, en su fase inicial la Regen-Star buscará su **Acreditación** para activar su función de recaudo y expansión de la franquicia. El Prestigio no se desarrolla aún y se mantiene la organización en un estado latente (`NEBULOUS`) para ser promovida y aprobada por la DAO de FREEDERATION. 
 
 ## Administración de Fondos
 
@@ -57,19 +57,19 @@ Por otro lado, una Regen-Star puede reducir su Prestigio cuando se determina su 
 
 ### Ciclo de vida de la Regen-Star
 
-En el momento de su creación por parte del fundador, la Regen-Star se mantiene en un estado latente pero inactivo, denominado NEBULOUS. En este estado, el fundador procede a realizar una venta inicial de Regen-Planets a los Early-Adopters para recaudar fondos y acreditar el proyecto en la gobernanza de la DAO de FREEDERATION.
+En el momento de su creación por parte del fundador, la Regen-Star se mantiene en un estado latente pero inactivo, denominado `NEBULOUS`. En este estado, el fundador procede a realizar una venta inicial de Regen-Planets a los Early-Adopters para recaudar fondos y acreditar el proyecto en la gobernanza de la DAO de FREEDERATION.
 
 Su ciclo de vida muestra las diferentes etapas por las que pasa una Regen-Star, desde su creación hasta su posible redención después de cometer una falta:
 
 1. **NEBULOUS**: La Regen-Star es creada y permanece en este estado inicial. Desde aquí, puede ofrecer una Oferta Inicial de Tokens de Regen-Planets para obtener fondos y tramitar su promoción. Durante ésta fase, no se producen Meta-Islas.
 
-2. **PROMOTING**: Cuando la Regen-Star obtiene suficientes fondos para pagar la **Cuota de Acreditación**, pasa al estado de PROMOTING. En este estado, busca la aprobación mediante votación en la Lotería de Promoción celebrada cada VestingPeriod. Si resulta la opción elegida del ganador, pasa a convertirse en ACCREDITED.
+2. **PROMOTING**: Cuando la Regen-Star obtiene suficientes fondos para pagar la **Cuota de Acreditación**, pasa al estado de`PROMOTING`. En este estado, busca la aprobación mediante votación en la Lotería de Promoción celebrada cada VestingPeriod. Si resulta la opción elegida del ganador, pasa a convertirse en `ACCREDITED`.
 
-3. **ACCREDITED**: Si la Regen-Star recibe suficientes votos para su aprobación en la Lotería de Promoción, se convierte en ACCREDITED y puede desarrollar sus actividades económicas. Es también la fase en la cuál una Regen-Star puede producir Meta-Islas. Durante este estado, aumenta su Prestigio.
+3. **ACCREDITED**: Si la Regen-Star recibe suficientes votos para su aprobación en la Lotería de Promoción, se convierte en `ACCREDITED` y puede desarrollar sus actividades económicas. Es también la fase en la cuál una Regen-Star puede producir Meta-Islas. Durante este estado, aumenta su Prestigio.
 
-4. **GUILTY**: Si la Regen-Star es acusada de cometer una falta y romper sus compromisos, es sancionada y pasa al estado GUILTY. Durante éste estado se bloquean las comisiones y no se pueden crear nuevas Meta-Islas o Regen-Planets.
+4. **GUILTY**: Si la Regen-Star es acusada de cometer una falta y romper sus compromisos, es sancionada y pasa al estado `GUILTY`. Durante éste estado se bloquean las comisiones y no se pueden crear nuevas Meta-Islas o Regen-Planets.
 
-5. **REDEEMED**: Una Regen-Star que entra en estado GUILTY puede ser redimida y perdonada por el comité de votación, pagando una **Tarifa de Absolución**. Si el comité de votación vota a favor de su absolución en el Tribunal de Arbitraje, la Regen-Star se convierte en REDEEMED. En este estado puede crear Meta-Islas y recaudar fondos.
+5. **REDEEMED**: Una Regen-Star que entra en estado `GUILTY` puede ser redimida y perdonada por el comité de votación, pagando una **Tarifa de Absolución**. Si el comité de votación vota a favor de su absolución en el Tribunal de Arbitraje, la Regen-Star se convierte en`REDEEMED`. En este estado puede crear Meta-Islas y recaudar fondos.
 
 Desde un punto de vista funcional, la Regen-Star tiene 2 etapas principales en su desarrollo. 
 - Se dice que está en etapa de **Incubación**, cuando es creada y busca su acreditación para expandir y desempeñar labores de aseguramiento de compromisos. Durante su etapa de **Incubación**, la Regen-Star no puede producir Meta-Islas ni tampoco recaudar fondos de los sponsors. Tampoco puede desarrollar Prestigio ni ser juzgada en los Tribunales de Arbitraje.
@@ -78,9 +78,9 @@ Desde un punto de vista funcional, la Regen-Star tiene 2 etapas principales en s
 
 ### Acreditación de las Regen-Star
 
-La DAO de FREEDERATION establece un mecanismo de sorteo participativo, en el cuál se selecciona al azar a los jurados que votarán positivamente para favorecer a las **Regen-Star** en estado PROMOTING que se han postulado. Este mecanismo se conoce como **Lotería de Promoción**.
+La DAO de FREEDERATION establece un mecanismo de sorteo participativo, en el cuál se selecciona al azar a los jurados que votarán positivamente para favorecer a las **Regen-Star** en estado`PROMOTING` que se han postulado. Este mecanismo se conoce como **Lotería de Promoción**.
 
-Análogamente, una Regen-Star existente que ya esté Acreditada (ACCREDITED) puede promover directamente a otra Regen-Star en fase de incubación (NEBULOUS o PROMOTING), pero al hacerlo comparte la responsabilidad sobre su futuro desempeño afectando su Prestigio derivado.
+Análogamente, una Regen-Star existente que ya esté Acreditada (`ACCREDITED`) puede promover directamente a otra Regen-Star en fase de incubación (`NEBULOUS` o`PROMOTING`), pero al hacerlo comparte la responsabilidad sobre su futuro desempeño afectando su Prestigio derivado.
 
 
 ### Desarrollo de Prestigio
@@ -105,7 +105,7 @@ Donde **SponsorshipBonus** es una variable de estado que puede valer [0, 1,  2],
 
 Se considera que una Regen-Star ha alcanzado su **Estado de Madurez** cuando su **Prestigio** supera el umbral denominado **MaturityThreshold**. Por defecto, éste umbral corresponde a 8 **VestingPeriods**.
 
-Al superar este umbral, la Regen-Star adquiere la capacidad de promover directamente a otras Regen-Star en estado de **Incubación** (NEBULOUS. PROMOTING):
+Al superar este umbral, la Regen-Star adquiere la capacidad de promover directamente a otras Regen-Star en estado de **Incubación** (`NEBULOUS`.`PROMOTING`):
 - El incentivo para promover Regen-Stars en incubación es obtener un punto (1) en la variable **SponsorshipBonus**, lo que permite incrementar su **Prestigio** más rápidamente.
 - Sin embargo, el costo de promover otros proyectos es compartir la responsabilidad en caso de sanciones en los **Tribunales de Arbitraje**.
 - La Regen-Star en **Estado de Madurez** que promueva otras Regen-Star debe cubrir parte de las indemnizaciones cuando algunas de las Regen-Star bajo su tutela no puedan afrontar sus sanciones con su propio **Fondo de Cobertura de Riesgos**. En tales casos, se resta 1 punto de **Prestigio** tanto a la patrocinadora como a la sancionada bajo su tutela, y se pierde el privilegio de **SponsorshipBonus** para siempre asignándose el valor a 0.

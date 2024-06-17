@@ -42,6 +42,9 @@ Revisar.
 
 Revisar.
 
+### DEFI
+
+Revisar.
 
 
 ### FloorPrice
@@ -75,6 +78,10 @@ Revisar.
 
 
 ### Incubación, Regen-Star
+
+Revisar.
+
+### Inbound Marketing
 
 Revisar.
 

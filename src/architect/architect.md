@@ -11,7 +11,7 @@ Las franquicias de las Regen-Star poseen una gobernanza de participación en 2 n
 Este subsistema también maneja el seguimiento de las tareas de desarrollo a financiar, así como la asignación del presupuesto priorizado y los mecanismos de aprobación de tarea cumplida.
 
 3) **SponsorShot**: Gestiona la interacción entre Sponsors y las Meta-Islas, procesando el pago por catalogación y posicionamiento de contenidos del patrocinador (Sponsor). 
-Mediante éste proceso, el Sponsor obtiene un paquete de Listing-Tokens, como también de NFTs promocionales otorgados a discreción del proyecto de la Regen-Star correspondiente.
+Mediante éste proceso, el Sponsor obtiene un paquete de Listing-Tokens, como también de NFTs promocionales otorgados a discreción del proyecto de la **Regen-Star** correspondiente.
 
 4) **Tribunales de Arbitraje**: Gestiona los casos de disputas contra la gestión de las Regen-Planets. Se compone de un mecanismo de denuncias que relaciona publicaciones de Nostr detallando el pliego de cargos y el hilo de discusión, con el registro de los casos interpuestos, registrado como un formulario con detalles sobre el tipo de falta y la entidad acusada.
 

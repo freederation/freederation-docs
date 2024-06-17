@@ -6,7 +6,7 @@ FREEDERATION introduce un innovador mecanismo para resolver disputas y promover 
 
 En el núcleo del sistema de FREEDERATION se encuentra la **Lotería de Promoción**, un sorteo aleatorio diseñado para impulsar la participación y promoción de proyectos. Este proceso se desarrolla de la siguiente manera:
 
-1. **Propuestas Selladas**: Los operadores de las **Meta-Islas** envían sus propuestas selladas **Sealed-Proposal** a un Banco de Veredictos. Estas propuestas contienen veredictos sobre casos abiertos en el Tribunal de Arbitraje, así como recomendaciones para la promoción de proyectos Regen-Star en incubación y la absolución de aquellos que hayan sido sancionados (GUILTY).
+1. **Propuestas Selladas**: Los operadores de las **Meta-Islas** envían sus propuestas selladas **Sealed-Proposal** a un Banco de Veredictos. Estas propuestas contienen veredictos sobre casos abiertos en el Tribunal de Arbitraje, así como recomendaciones para la promoción de proyectos Regen-Star en incubación y la absolución de aquellos que hayan sido sancionados (`GUILTY`).
 Una propuesta sellada **Sealed-Proposal** corresponde al Hash Keccak-256 de un bloque de atributos, 5 enteros consecutivos de 32 byes, que contiene la siguiente información:
 
 | **Proposal Entry**      |                           |
@@ -14,7 +14,7 @@ Una propuesta sellada **Sealed-Proposal** corresponde al Hash Keccak-256 de un b
 | **ARBITRATION_TRIAL** | ID del Caso de denuncia sobre el cuál se determina un veredicto. Si no se especifica alguno, se asigna "0".                                                                 |
 | **VEREDICT**          | Un valor entero de 32 bytes que indica el veredicto sobre el caso de denuncia (ARBITRATION_TRIAL). Se usa un múltiplo de 7 para indicar una respuesta afirmativa y declarar el veredicto como Culpable; en caso contrario, se interpreta como negativa y se declara la Inocencia. |
 | **STAR_PROMOTION**    | ID de la Regen-Star en estado de incubación pero que busca promoción. Si no se especifica alguno, se asigna "0".                                                            |
-| **STAR_REDEMPTION**   | ID de la Regen-Star GUILTY que puede ser perdonada. Si no se especifica alguno, se asigna "0".                                                                              |
+| **STAR_REDEMPTION**   | ID de la Regen-Star `GUILTY` que puede ser perdonada. Si no se especifica alguno, se asigna "0".                                                                              |
 > Esta propuesta sellada corresponde al hash Keccak-256 firmado criptográficamente con la tupla de claves Pública/Privada bajo el esquema Edwards ECDA 256619 del grupo Risetto. Se obtiene un bloque de 64 bytes que corresponde a la tupla (R,s) del punto evaluado en la curva Edwards.
 
 2. **Generación de Número Aleatorio**: Cada VestingPeriod, la DAO de FREEDERATION genera un número aleatorio on-chain que es no predecible pero verificable. Este número se utiliza para seleccionar una propuesta sellada al azar del Banco de Veredictos. 
@@ -46,6 +46,6 @@ Un porcentaje del Fondo de Gobernanza se destina al premio de la Lotería de Pro
 ## Validez de los Veredictos
 Para que un veredicto emitido en una propuesta sellada sea aplicable, debe cumplir con ciertos criterios:
 
-1. **Regen-Star Existentes**: La acusación debe dirigirse a Regen-Stars acreditadas (ACCREDITED, REDEEMED) y que no se encuentren en estado de incubación (NEBULOUS, PROMOTING) o previamente sancionadas como GUILTY.
+1. **Regen-Star Existentes**: La acusación debe dirigirse a Regen-Stars acreditadas (`ACCREDITED`,`REDEEMED`) y que no se encuentren en estado de incubación (`NEBULOUS`,`PROMOTING`) o previamente sancionadas como `GUILTY`.
 2. **Entidad Perjudicada**: Si los miembros de una Regen-Star ya han eliminado la Meta-Isla perjudicada, se invalida el voto relacionado, ya que no existe entidad a la cual acusar.
-3. **Aboluciones y Promociones**: La solicitud de absolución debe referirse a una Regen-Star en estado GUILTY que haya pagado la Tarifa de Abolución. De igual manera, el proyecto en proceso de acreditación debe mantener su estatus PROMOTING.
+3. **Aboluciones y Promociones**: La solicitud de absolución debe referirse a una Regen-Star en estado `GUILTY` que haya pagado la Tarifa de Abolución. De igual manera, el proyecto en proceso de acreditación debe mantener su estatus`PROMOTING`.

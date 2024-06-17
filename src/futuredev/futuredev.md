@@ -12,4 +12,4 @@ Las **Meta-Islas** se consolidan como entornos virtuales dentro de FREEDERATION 
 
 FREEDERATION irá más allá de la curación de contenido, aprovechando la dinámica de moderación y preservación de la calidad de la información ejercida por las Meta-Islas. 
 
-Con el respaldo de la comunidad Open Source representada en las Regen-Stars, FREEDERATION brindará el ecosistema para el desarrollo de futuras aplicaciones en el aseguramiento de la integridad y seguridad de los Oráculos de Información, vitales para las aplicaciones DeFI (Finanzas Descentralizadas).
+Con el respaldo de la comunidad Open Source representada en las Regen-Stars, FREEDERATION brindará el ecosistema para el desarrollo de futuras aplicaciones en el aseguramiento de la integridad y seguridad de los Oráculos de Información, vitales para las aplicaciones [**DeFI**](../glossary/glossary_terms.md#defi) (Finanzas Descentralizadas).
